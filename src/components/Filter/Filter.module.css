@@ -1,0 +1,18 @@
+.filter_wrap {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 15px;
+}
+.filter_text {
+  align-self: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+.filter_input {
+  width: 378px;
+  padding: 5px 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+}
